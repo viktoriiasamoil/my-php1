@@ -1,0 +1,60 @@
+.prom {
+    font-family: "Liberation Serif";
+    font-size: 30px;
+    color: darkslategray;
+
+}
+
+.food {
+    font-family: "DejaVu Serif";
+    font-size: 25px;
+    color: darkslategray;
+
+}
+.name {
+    font-family: Dyuthi;
+    font-size: 40px;
+    color: black;
+
+}
+
+.form {
+    font-family: Purisa;
+    font-size: 22px;
+    color: black;
+
+}
+
+.label {
+    font-family: "Liberation Serif";
+    font-size: 24px;
+    color: darkslategray;
+}
+
+.h1 {
+    text-align: center;
+}
+.header {
+    font-size: x-large;
+    background-color: white;
+    color: black
+}
+
+.store_name {
+    text-align: center;
+    font-family: Jamrul
+}
+
+.button {
+    float: right;
+    font-size: medium;
+    font-family: Purisa
+}
+
+.div {
+    width: 30%;
+    height: 100%;
+    display: inline-block;
+    background-color: darkkhaki;
+    float: left
+}
